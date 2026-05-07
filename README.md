@@ -18,4 +18,4 @@ cc-by-nc-4.0
 There are 2 languages available : English (en) and Yorùbá (yo).
 
 # Link to Meduim Article Post
-https://medium.com/p/0a24b67e49e5/edit
+https://medium.com/p/0a24b67e49e5?postPublishedType=initial
