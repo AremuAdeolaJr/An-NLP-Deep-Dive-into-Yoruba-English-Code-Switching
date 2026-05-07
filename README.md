@@ -4,6 +4,11 @@ This research outlines a methodology for constructing a synthetic, annotated cor
 
 The framework employs thematic constraints and **UMAP-based semantic analysis** to ensure generative diversity, followed by a rigorous human-in-the-loop review to mitigate model errors, such as diacritic omission and syntactic inaccuracies. While automated **Part-of-Speech (POS)** and **Named Entity Recognition (NER)** layers provide structural depth, the study identifies significant limitations in existing language identification models like **FastText** for token-level classification. Ultimately, the project offers a scalable, reusable architecture for developing linguistically meaningful datasets, advocating for NLP systems that accurately reflect the fluid communicative realities of under-represented bilingual communities.
 
+
+# Data
+
+The code generated 50 sentences acorss domain but the 35 were used in the analysis and saved as /approved_sentences.csv 
+
 # license:
 
 cc-by-nc-4.0
